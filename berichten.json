@@ -1,0 +1,34 @@
+[
+    {
+        "naam": "rzz1.100",
+        "foto": "images/haircut.JPG",
+        "tekst": "",
+        "likes": 248000,
+        "geliked": false,
+        "datum": "6 oktober 2026"
+    },
+    {
+        "naam": "madhu.kwx",
+        "foto": "images/placeholder.jpg",
+        "tekst": "",
+        "geliked": false,
+        "likes": 358,
+        "datum": "19 oktober 2026"
+    },
+    {
+        "naam": "etk03",
+        "foto": "images/efegoat.JPG",
+        "tekst": "",
+        "likes": 18,
+        "geliked": false,
+        "datum": "18 oktober 2026"
+    },
+    {
+        "naam": "cocacola057",
+        "video": "dancing.MP4",
+        "tekst": "white boi hitting that tho",
+        "likes": -19000,
+        "geliked": false,
+        "datum": "9 juli 2026"
+    }
+]

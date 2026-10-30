@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #64072938;
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    text-align: center;
+}
+
+.post {
+    background-color: white;
+    border: 1px solid lightgray;
+    margin: 20px auto;
+    max-width: 450px;
+}
+
+.post h2,
+.post p {
+    margin: 12px;
+}
+
+.post-foto {
+    min-height: 300px;
+    background-color: #f2f2f2;
+}
+
+.post-foto img,
+.post-foto video {
+    display: block;
+    width: 100%;
+    min-height: 300px;
+    object-fit: cover;
+}
+
+.knoppen {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    margin: 12px;
+}
+
+.knoppen button {
+    padding: 2px 12px;
+    border: 1px solid rgba(194, 14, 155, 0.113);
+    border-radius: 2px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.knoppen button:hover {
+    background-color: #f2f2f2;
+}
+
+.like-knop {
+    color: #7200338a;
+}
+
+.deel-knop {
+    color: #7200338a
+}
+
+.reactie-knop {
+    color: #7200338a;
+}
+
+.reacties {
+    margin: 0 12px 12px;
+    padding-left: 20px;
+    color: #333;
+    font-size: 14px;
+}
+
+.datum {
+    color: gray;
+    font-size: 14px;
+}
